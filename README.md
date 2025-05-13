@@ -93,7 +93,7 @@ Avant d’utiliser notre programme, assurez-vous d’avoir la configuration suiv
 ## Configuration et utilisation
 Installation
 Clonez le dépôt Git sur votre machine locale :
-https://gitlab-mi.univ-reims.fr/arvo0004/managlent-proj-digit.git
+https://github.com/oumar1958/JO-2024
 Accédez au répertoire cloné dans votre terminal :
 cd managlent-proj-digit
 Installer ou mettre à niveau pip :
